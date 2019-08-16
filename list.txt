@@ -1,0 +1,4 @@
+[x] Test error case: "2+a", returns "2+a"
+[ ] Test the "2+2" case, returns "4"
+[ ] Test the "2 + 2" case, returns "4"
+[ ] test subtraction, i.e. "2-2"
